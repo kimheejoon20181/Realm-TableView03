@@ -1,0 +1,6 @@
+framework module Pods_Realm_TableView03 {
+  umbrella header "Pods-Realm-TableView03-umbrella.h"
+
+  export *
+  module * { export * }
+}
